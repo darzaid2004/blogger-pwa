@@ -1,8 +1,8 @@
 {
-  "name": "My Blog",
+  "name": "Students Material Hub",
   "id": "/",
-  "short_name": "My Blog",
-  "description": "My blog description goes here...",
+  "short_name": "SMH",
+  "description": "Get better grades! Find notes, mind maps, practice, and test papers for all subjects. Study smarter with us.",
   "version": "1.0",
   "dir": "auto",
   "lang": "en-US",
