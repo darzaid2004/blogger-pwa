@@ -3,9 +3,9 @@ import type { Config } from './types';
 export default {
   version: '1.0',
   id: '/',
-  name: 'My Blog',
-  shortName: 'My Blog',
-  description: 'My blog description goes here...',
+  name: 'Students Material Hub',
+  shortName: 'SMH',
+  description: 'Get better grades! Find notes, mind maps, practice, and test papers for all subjects. Study smarter with us.',
   direction: 'auto',
   language: 'en-US',
   backgroundColor: '#fff',
